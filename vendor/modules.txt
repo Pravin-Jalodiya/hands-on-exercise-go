@@ -1,0 +1,6 @@
+# github.com/Pravin-Jalodiya/Puppy v1.1.0
+## explicit; go 1.22.5
+github.com/Pravin-Jalodiya/Puppy
+# package1 v0.0.0 => /Users/pravin/Desktop/GoCodes/package1
+## explicit; go 1.22.5
+package1
